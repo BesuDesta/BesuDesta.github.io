@@ -79,10 +79,9 @@ body {
   font-size: 2.5rem;
 }
 
-.container-title img{
-  position: absolute;
-  justify-content: center;
-  bottom: -4rem;
+.container-title img {
+  display: block;
+  margin: 0 auto; /* Center the image horizontally */
   width: 15rem;
 }
 
