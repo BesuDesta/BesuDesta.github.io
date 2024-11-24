@@ -219,6 +219,13 @@ figcaption {
   gap: 1rem;
 }
 
+.about-text-container {
+  border: 1px solid;
+  border-image: linear-gradient(to right, blue, red) 1;
+  border-radius: 1rem;
+  gap: 1rem;
+  padding: 1rem;
+}
 
 .about-skill {
   align-items: start;
