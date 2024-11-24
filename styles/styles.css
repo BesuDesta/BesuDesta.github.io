@@ -229,7 +229,7 @@ figcaption {
 }
 
 .about-skill:hover {
-  transform: scale(1.05); /* Slightly enlarge the skill item */
+  transform: scale(1.005); /* Slightly enlarge the skill item */
 }
 
 .about-skills h3 {
